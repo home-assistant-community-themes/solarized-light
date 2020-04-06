@@ -85,7 +85,7 @@ solarized-light:
   round-slider-bar-color:  "#6c71c4"
 
   #---------------
-  # this lot don't seem to do anything?
+  # this lot don't seem to do anything anymore?
   #paper-slider-knob-color: "#6c71c4"
   #paper-slider-knob-start-color: "#6c71c4"
   #paper-slider-pin-color: "#6c71c4"
