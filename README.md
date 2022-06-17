@@ -1,7 +1,7 @@
 # Solarized Light Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/solarized-light.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/solarized-light)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Solarized Light Theme by snwtoy
 
